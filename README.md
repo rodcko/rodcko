@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* :computer: Software Engineer at [Panifresh](https://panifresh.com.gt/).
+* :computer: Software Architect at [Tigo](https://www.tigo.com.gt/).
 * :rocket: Speaker at [Developer Circles from Facebook: Ciudad de Guatemala](https://www.facebook.com/groups/DevCGuatemala).
 * :heart: for technology.
 
